@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ClarisseMom
-- 👀 I’m interested in everything. I'm a newbie and looking forward to learning, understanding and, hopefully finding solutions for my project idea (something to ease mom's daily life and reduce mental load).
+- 👀 I’m interested in everything. I'm a newbie and looking forward to learning, understanding and, hopefully finding solutions for my project idea. (working on mental load)
 - 🌱 I’m currently learning Data Science and Machine Learning at MIT Profesionnal Education
 - 💞️ I’m looking to collaborate on project related to machine learning, data science, market analysis. I want to apply what I leanr and willing to help. 
 - 📫 How to reach me : DM on IG @mylongjourney__
